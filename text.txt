@@ -1,3 +1,2 @@
 I love Devops
 I love India
-I love git
